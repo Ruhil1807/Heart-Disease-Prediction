@@ -46,8 +46,8 @@ Permutation and native feature importance analysis consistently highlighted the 
 ### Execution
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Ruhil1807/Heart-Disease-Prediction]
-    cd heart-Disease-prediction
+    git clone https://github.com/Ruhil1807/Heart-Disease-Prediction
+    cd Heart-Disease-Prediction
     ```
 2.  Open and run the `heart_disease.ipynb` notebook in a Jupyter environment to step through the analysis, or load the pre-trained model directly using `joblib`.
 

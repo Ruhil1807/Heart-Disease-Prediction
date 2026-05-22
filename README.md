@@ -52,4 +52,4 @@ Permutation and native feature importance analysis consistently highlighted the 
 2.  Open and run the `heart_disease.ipynb` notebook in a Jupyter environment to step through the analysis, or load the pre-trained model directly using `joblib`.
 
 ## 🧑‍💻 Author 
-* **Author:** Ruhil Patel
+* **Author:** Ruhil Patel, Nandil Patel
